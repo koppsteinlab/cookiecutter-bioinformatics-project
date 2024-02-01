@@ -99,3 +99,4 @@ results/**
 !results/.gitkeep
 sandbox/**
 !sandbox/.gitkeep
+work/**
