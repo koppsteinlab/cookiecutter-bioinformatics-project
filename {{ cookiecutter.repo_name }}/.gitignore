@@ -89,7 +89,14 @@ target/
 .mypy_cache/
 
 # workflow-specific directories
-workspace/
-resources/
-results/
-sandbox/
+workspace/**
+!workspace/.gitkeep
+resources/external/**
+!resources/external/.gitkeep
+resources/raw_data/**
+!resources/raw_data/.gitkeep
+results/**
+!results/.gitkeep
+sandbox/**
+!sandbox/.gitkeep
+work/**
