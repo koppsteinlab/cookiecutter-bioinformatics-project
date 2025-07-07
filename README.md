@@ -28,7 +28,7 @@ On the MPI-IE infrastructure, you can also run `module load cookiecutter`.
 ### To start a new project, run:
 ------------
 
-    cookiecutter gh:maxplanck-ie/cookiecutter-bioinformatics-project
+    cookiecutter gh:koppsteinlab/cookiecutter-bioinformatics-project
 
 
 ### The resulting directory structure
